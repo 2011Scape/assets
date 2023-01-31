@@ -1,0 +1,205 @@
+Year   Quest Name                                   Quest Prefix
+2001   Cook's Assistant                             cook
+       Demon Slayer                                 dslay
+       The Restless Ghost                           priest
+       Sheep Shearer                                sheep
+       Shield of Arrav                              phoenixgang
+       Ernest the Chicken                           haunted
+       Vampyre Slayer                               vampire
+       Imp Catcher                                  imp
+       Stolen Hearts                                ozan1
+       Diamond in the Rough                         ozan2
+       What's Mine Is Yours                         pnr
+       Witch's Potion                               hetty
+       The Knight's Sword                           squire
+       Goblin Diplomacy                             gobdip
+       Pirate's Treasure                            hunt
+       Dragon Slayer                                dragon
+2002   Druidic Ritual                               druid_quest_2
+       Lost City                                    zanaris
+       Witch's House                                ball
+       Merlin's Crystal                             arthur
+       Heroes' Quest                                hero
+       Bar Crawl                                    barcrawl
+       Scorpion Catcher                             scorpcatcher
+       Family Crest                                 crest
+       Tribal Totem                                 totem
+       Fishing Contest                              fishingcompo
+       Monk's Friend                                drunkmonk
+       Temple of Ikov                               ikov
+       Clock Tower                                  cog
+       Holy Grail                                   grail
+       Tree Gnome Village                           tree
+       Fight Arena                                  arena
+       Hazeel Cult                                  hazeelcult
+       Sheep Herder                                 sheepherder
+       Plague City                                  elena
+       Sea Slug                                     seaslug
+       Waterfall Quest                              waterfall
+       Biohazard                                    biohazard
+       Jungle Potion                                junglepotion
+       The Grand Tree                               grandtree
+2003   Shilo Village                                zombiequeen
+       Underground Pass                             upass
+       Observatory Quest                            itgronigen
+       The Tourist Trap                             desertrescue
+       Watch Tower                                  itwatchtower
+       Dwarf Cannon                                 mcannon
+       Murder Mystery                               murder
+       The Dig Site                                 itexam
+       Gertrude's Cat                               fluffs
+       Legends' Quest                               legends
+       Rune Mysteries                               ariane1
+       Rune Memories                                ariane2
+2004   Big Chompy Bird Hunting                      chompybird
+       Elemental Workshop I                         elemental_workshop
+       Priest in Peril                              priest
+       Nature Spirit                                druidspirit
+       Death Plateau                                death
+       Troll Stronghold                             troll
+       Tai Bwo Wannai Trio                          tbwt
+       Regicide                                     regicide
+       Eadgar's Ruse                                eadgar
+       Shades of Mort'ton                           morttonquest
+       The Fremennik Trials                         viking
+       Horror from the Deep                         horror
+       Throne of Miscellania                        misc
+       Monkey Madness                               mm
+       Haunted Mine                                 hauntedmine
+2005   Troll Romance                                troll_love
+       In Search of the Myreque                     route
+       Creature of Fenkenstrain                     fenk
+       Roving Elves                                 roving_elves
+       Ghosts Ahoy                                  ahoy
+       One Small Favour                             onesmallfavour
+       Mountain Daughter                            mdaughter
+       Between a Rock                               dwarfrock
+       The Feud                                     feud
+       The Golem                                    golem
+       Desert Treasure                              deserttreasure
+       Icthlarin's Little Helper                    ics
+       Tears of Guthix                              tog
+       Zogre Flesh Eaters                           zogre
+       The Lost Tribe                               lost_tribe
+       Giant Dwarf                                  giantdwarf
+       Enter the Abyss                              abyss
+       Recruitment Drive                            rd
+       Mourning's End                               mourning
+       Forgettable Tale of a Drunken Dwarf          forget
+       The Curse of Zaros                           secret_ghost
+       Garden of Tranquillity                       garden
+       A Tail of Two Cats                           twocats
+       Wanted!                                      wanted
+       Mourning's End Part II                       mourning
+       Rum Deal                                     deal
+       Shadow of the Storm                          agrith
+       Making History                               makinghistory
+       Rat Catchers                                 ratcatch
+       Spirits of the Elid                          elid
+       Devious Minds                                devious
+2006   Hand in the Sand                             handsand
+       Enakhra's Lament                             enakh
+       Cabin Fever                                  fever
+       A Fairy Tale I - Growing Pains               fairy
+       Recipe for Disaster                          hundred
+       Recipe for Disaster: Freeing the Mountain Dwahundred_dwarf
+       Recipe for Disaster: Freeing the Goblin Gener100goblin
+       Recipe for Disaster: Freeing Pirate Pete     100_pirate
+       Recipe for Disaster: Freeing the Lumbridge Sa100guide
+       Recipe for Disaster: Freeing Evil Dave       hundred_dave
+       Recipe for Disaster: Freeing Skrach Uglogwee 100_ogre
+       Recipe for Disaster: Freeing Sir Amik Varze  chicken
+       Recipe for Disaster: Freeing King Awowogei   hundred_ilm
+       In Aid of the Myreque                        myreque_2
+       A Soul's Bane                                soulbane
+       Rag and Bone Man                             rag
+       Swan Song                                    swansong
+       Royal Trouble                                royal
+       Death to the Dorgeshuun                      dttd
+       A Fairy Tale II - Cure a Queen               fairy2
+       Lunar Diplomacy                              lunar
+       The Eyes of Glouphrie                        eyeglo
+       The Darkness of Hallowvale                   myq3
+       The Slug Menace                              slug2
+       Elemental Workshop II                        elemental_quest_2
+       My Arm's Big Adventure                       myarm
+       Enlightened Journey                          zep
+       Eagles' Peak                                 eaglepeak
+       Animal Magnetism                             anma
+2007   Contact!                                     contact
+       Lair of Tarn Razorlor                        lotr
+       Cold War                                     peng
+       The Fremennik Isles                          fris
+       The General's Shadow                         shadow_maj
+       Tower of Life                                tol
+       The Great Brain Robbery                      brain
+       What Lies Below                              surok
+       The Hunt for Surok                           dsd
+       Olaf's Quest                                 olaf
+       Another Slice of H.A.M.                      slice
+       Dream Mentor                                 dream
+       Grim Tales                                   grim
+       King's Ransom                                kr
+       The Path of Glouphrie                        pog
+       Back to my Roots                             roots
+       One Foot in the Grave                        handsand2
+       Land of the Goblins                          lotg
+       Hopespear's Will                             hopespears_will
+2008   Dealing with Scabaras                        scab
+       Wolf Whistle                                 wolf_quest_2
+       As a First Resort                            afr
+       Catapult Construction                        catcon
+       Kennith's Concerns                           ken
+       Legacy of Seergaze                           myq4
+       Perils of Ice Mountain                       icemt
+       TokTz-Ket-Dill                               dillo
+       Smoking Kills                                smki
+       Desert Slayer Dungeon                        smki_miniquest
+       Rocking Out                                  rocko
+       Spirit of Summer                             sum1
+       Meeting History                              hist
+       All Fired Up                                 firedup
+       Summer's End                                 sum2
+       Defender of Varrock                          zemo
+       Swept Away                                   swept
+       Purple Cat                                   swept_cat
+       While Guthix Sleeps                          luc2
+       Myths of the White Lands                     motwl
+2009   In Pyre Need                                 phoenix
+       The Chosen Commander                         chosen
+       Glorious Memories                            glomem
+       The Tale of the Muspah                       mah1
+       Missing My Mummy                             mom2
+       Hunt for Red Raktuber                        peng_rak
+       The Curse of Arrav                           mah3
+       Fur 'n Seek                                  rag2
+       Forgiveness of a Chaos Dwarf                 ra3
+       Within the Light                             wtl
+       The Temple at Senntisten                     mah4
+       Blood Runs Deep                              evq (Epic Viking Quest)
+2010   Nomad's Requiem                              nom
+       Rune Mechanics                               rm
+       Blood Pact                                   lumbcat
+       Buyers and Cellars                           thigui (Thieves' Guild)
+       From Tiny Acorns                             caper_acorns
+       Lost Her Marbles                             caper_marbles
+       A Guild of Our Own                           caper_ourown
+       A Fairy Tale III - Battle at Ork's Rift      ft3
+       Elemental Workshop III                       elem_3
+       Quiet Before the Swarm                       vkq1
+       Love Story                                   love
+       A Void Dance                                 vkq2
+       Gunnar's Ground                              romcom
+       The Void Stares Back                         vkq3
+       Do No Evil                                   apmeken
+2011   King of the Dwarves                          ra4
+       The Prisoner of Glouphrie                    glo3
+       Elemental Workshop IV                        elem_4
+       A Clockwork Syringe                          acs
+       Three's Company                              fremsaga_signature
+       Vengeance                                    fremsaga_vengeance
+       Thok It To 'Em                               fremsaga_thok
+       Deadliest Catch                              deadly
+       Salt in the Wound                            slug3
+       The Branches of Darkmeyer                    myq5
+       Ritual of the Mahjarrat                      mah5
